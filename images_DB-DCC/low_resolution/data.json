@@ -1,0 +1,58 @@
+{
+  "points": [
+    {
+      "position": [
+        1.0625,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Monet_A06_3 - Atikarn Eurboonyanunt.jpg"
+    },
+    {
+      "position": [
+        1.1875,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Monet_A06_1 - Atikarn Eurboonyanunt.jpg"
+    },
+    {
+      "position": [
+        1.3125,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Pun_F02_1 - Achira Junprakob.jpg"
+    },
+    {
+      "position": [
+        1.4375,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Monet_A06_2 - Atikarn Eurboonyanunt.png"
+    },
+    {
+      "position": [
+        1.5625,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Pun_F02_3 - Achira Junprakob.png"
+    },
+    {
+      "position": [
+        1.6875,
+        8.0625
+      ],
+      "link": "",
+      "pscale": 0.115,
+      "name": "DTS1_Pun_F02_2 - Achira Junprakob.png"
+    }
+  ]
+}

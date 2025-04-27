@@ -2,57 +2,876 @@
   "points": [
     {
       "position": [
-        1.0625,
-        8.0625
+        5.125,
+        12.125
       ],
-      "link": "",
-      "pscale": 0.115,
-      "name": "DTS1_Monet_A06_3 - Atikarn Eurboonyanunt.jpg"
+      "link": "DCC_MongrelaProject.pdf",
+      "pscale": 0.24,
+      "name": "the Loom Condo (4).JPG"
     },
     {
       "position": [
-        1.1875,
-        8.0625
+        5.375,
+        12.125
       ],
-      "link": "",
-      "pscale": 0.115,
-      "name": "DTS1_Monet_A06_1 - Atikarn Eurboonyanunt.jpg"
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.24,
+      "name": "DCC_TeaHouse (45).jpeg"
     },
     {
       "position": [
-        1.3125,
-        8.0625
+        5.625,
+        12.125
       ],
-      "link": "",
-      "pscale": 0.115,
-      "name": "DTS1_Pun_F02_1 - Achira Junprakob.jpg"
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.24,
+      "name": "DCC_TeaHouse (50).jpeg"
     },
     {
       "position": [
-        1.4375,
-        8.0625
+        5.875,
+        12.125
       ],
-      "link": "",
-      "pscale": 0.115,
-      "name": "DTS1_Monet_A06_2 - Atikarn Eurboonyanunt.png"
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.24,
+      "name": "DB_BeyondtheSurface (10).jpg"
     },
     {
       "position": [
-        1.5625,
-        8.0625
+        5.125,
+        12.375
       ],
-      "link": "",
-      "pscale": 0.115,
-      "name": "DTS1_Pun_F02_3 - Achira Junprakob.png"
+      "link": "the Loom Condo (1).pdf",
+      "pscale": 0.24,
+      "name": "DCC_TeaHouse (34).jpeg"
     },
     {
       "position": [
-        1.6875,
-        8.0625
+        5.375,
+        12.375
       ],
-      "link": "",
+      "link": "the Loom Condo (1).pdf",
+      "pscale": 0.24,
+      "name": "DB_win-win (3).jpg"
+    },
+    {
+      "position": [
+        5.625,
+        12.375
+      ],
+      "link": "https://youtu.be/8wx7oqZWKzM\n",
+      "pscale": 0.24,
+      "name": "DCC_Munlife (5).jpg"
+    },
+    {
+      "position": [
+        5.875,
+        12.375
+      ],
+      "link": "DCC_MongrelaProject.pdf",
+      "pscale": 0.24,
+      "name": "DCC_RoofForLife (5).jpg"
+    },
+    {
+      "position": [
+        5.125,
+        12.625
+      ],
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.24,
+      "name": "DB_GuardPost (4).jpg"
+    },
+    {
+      "position": [
+        5.375,
+        12.625
+      ],
+      "link": "DCC_MongrelaProject.pdf",
+      "pscale": 0.24,
+      "name": "DCC_TeaHouse (27).jpeg"
+    },
+    {
+      "position": [
+        5.625,
+        12.625
+      ],
+      "link": "https://youtu.be/8wx7oqZWKzM\n",
+      "pscale": 0.24,
+      "name": "DB_TENDERE-SHELTER (1).JPG"
+    },
+    {
+      "position": [
+        5.875,
+        12.625
+      ],
+      "link": "https://youtu.be/8wx7oqZWKzM\n",
+      "pscale": 0.24,
+      "name": "the Loom Condo (3).JPG"
+    },
+    {
+      "position": [
+        5.125,
+        12.875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.24,
+      "name": "BD_MongrelaProject (7).jpg"
+    },
+    {
+      "position": [
+        5.375,
+        12.875
+      ],
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.24,
+      "name": "DB_win-win (2).png"
+    },
+    {
+      "position": [
+        5.625,
+        12.875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.24,
+      "name": "DCC_TeaHouse (1).jpeg"
+    },
+    {
+      "position": [
+        5.875,
+        12.875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.24,
+      "name": "DB_SpatialMapping (3).JPG"
+    },
+    {
+      "position": [
+        6.0625,
+        12.0625
+      ],
+      "link": "https://youtu.be/XLROrql6Lx8\n",
       "pscale": 0.115,
-      "name": "DTS1_Pun_F02_2 - Achira Junprakob.png"
+      "name": "the Loom Condo (2).png"
+    },
+    {
+      "position": [
+        6.1875,
+        12.0625
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (4).JPG"
+    },
+    {
+      "position": [
+        6.3125,
+        12.0625
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (6).JPG"
+    },
+    {
+      "position": [
+        6.4375,
+        12.0625
+      ],
+      "link": "https://youtu.be/8wx7oqZWKzM\n",
+      "pscale": 0.115,
+      "name": "BD_MongrelaProject (1).png"
+    },
+    {
+      "position": [
+        6.5625,
+        12.0625
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (7).JPG"
+    },
+    {
+      "position": [
+        6.6875,
+        12.0625
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "the Loom Condo (1).png"
+    },
+    {
+      "position": [
+        6.8125,
+        12.0625
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_BeyondtheSurface (9).jpg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.0625
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "BD_MongrelaProject (29).png"
+    },
+    {
+      "position": [
+        6.0625,
+        12.1875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (37).jpeg"
+    },
+    {
+      "position": [
+        6.1875,
+        12.1875
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (3).jpeg"
+    },
+    {
+      "position": [
+        6.3125,
+        12.1875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "BD_MongrelaProject (5).png"
+    },
+    {
+      "position": [
+        6.4375,
+        12.1875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (5).JPG"
+    },
+    {
+      "position": [
+        6.5625,
+        12.1875
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.115,
+      "name": "DB_BeyondtheSurface (6).JPG"
+    },
+    {
+      "position": [
+        6.6875,
+        12.1875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (1).JPG"
+    },
+    {
+      "position": [
+        6.8125,
+        12.1875
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (18).jpeg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.1875
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DB_TENDERE-SHELTER (4).JPG"
+    },
+    {
+      "position": [
+        6.0625,
+        12.3125
+      ],
+      "link": "https://youtu.be/H3r4ssQfe3g\n",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (4).jpg"
+    },
+    {
+      "position": [
+        6.1875,
+        12.3125
+      ],
+      "link": "https://youtu.be/H3r4ssQfe3g\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (20).jpeg"
+    },
+    {
+      "position": [
+        6.3125,
+        12.3125
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_BeyondtheSurface (11).JPG"
+    },
+    {
+      "position": [
+        6.4375,
+        12.3125
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (13).jpeg"
+    },
+    {
+      "position": [
+        6.5625,
+        12.3125
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (1).jpg"
+    },
+    {
+      "position": [
+        6.6875,
+        12.3125
+      ],
+      "link": "https://youtu.be/ymAL_WjC_2A\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (2).jpeg"
+    },
+    {
+      "position": [
+        6.8125,
+        12.3125
+      ],
+      "link": "the Loom Condo (1).pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (30).jpeg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.3125
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (3).jpg"
+    },
+    {
+      "position": [
+        6.0625,
+        12.4375
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (25).jpeg"
+    },
+    {
+      "position": [
+        6.1875,
+        12.4375
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "MET_HomeSchool (2).JPG"
+    },
+    {
+      "position": [
+        6.3125,
+        12.4375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (32).jpeg"
+    },
+    {
+      "position": [
+        6.4375,
+        12.4375
+      ],
+      "link": "the Loom Condo (1).pdf",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (3).jpg"
+    },
+    {
+      "position": [
+        6.5625,
+        12.4375
+      ],
+      "link": "https://youtu.be/XLROrql6Lx8\n",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (7).jpg"
+    },
+    {
+      "position": [
+        6.6875,
+        12.4375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "MET_HomeSchool (1).JPG"
+    },
+    {
+      "position": [
+        6.8125,
+        12.4375
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.115,
+      "name": "DB_GuardPost (2).jpg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.4375
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (2).jpg"
+    },
+    {
+      "position": [
+        6.0625,
+        12.5625
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_TENDERE-SHELTER (3).JPG"
+    },
+    {
+      "position": [
+        6.1875,
+        12.5625
+      ],
+      "link": "the Loom Condo (1).pdf",
+      "pscale": 0.115,
+      "name": "DB_GuardPost (6).jpg"
+    },
+    {
+      "position": [
+        6.3125,
+        12.5625
+      ],
+      "link": "https://youtu.be/ymAL_WjC_2A\n",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (6).jpg"
+    },
+    {
+      "position": [
+        6.4375,
+        12.5625
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (22).jpeg"
+    },
+    {
+      "position": [
+        6.5625,
+        12.5625
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (16).jpeg"
+    },
+    {
+      "position": [
+        6.6875,
+        12.5625
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.115,
+      "name": "the Loom Condo (2).JPG"
+    },
+    {
+      "position": [
+        6.8125,
+        12.5625
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.115,
+      "name": "DB_GuardPost (7).jpg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.5625
+      ],
+      "link": "https://youtu.be/ymAL_WjC_2A\n",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (21).jpeg"
+    },
+    {
+      "position": [
+        6.0625,
+        12.6875
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.115,
+      "name": "DCC_Munlife (2).JPG"
+    },
+    {
+      "position": [
+        6.1875,
+        12.6875
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_win-win (8).jpg"
+    },
+    {
+      "position": [
+        6.3125,
+        12.6875
+      ],
+      "link": "DCC_RoofForLife.pdf",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (16).jpeg"
+    },
+    {
+      "position": [
+        6.4375,
+        12.6875
+      ],
+      "link": "https://youtu.be/XLROrql6Lx8\n",
+      "pscale": 0.115,
+      "name": "DCC_Munlife (3).JPG"
+    },
+    {
+      "position": [
+        6.5625,
+        12.6875
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (5).png"
+    },
+    {
+      "position": [
+        6.6875,
+        12.6875
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.115,
+      "name": "DB_win-win (9).jpg"
+    },
+    {
+      "position": [
+        6.8125,
+        12.6875
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (4).png"
+    },
+    {
+      "position": [
+        6.9375,
+        12.6875
+      ],
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.115,
+      "name": "DCC_RoofForLife (2).jpg"
+    },
+    {
+      "position": [
+        6.0625,
+        12.8125
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (26).jpeg"
+    },
+    {
+      "position": [
+        6.1875,
+        12.8125
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_SpatialMapping (2).JPG"
+    },
+    {
+      "position": [
+        6.3125,
+        12.8125
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_win-win (1).jpeg"
+    },
+    {
+      "position": [
+        6.4375,
+        12.8125
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DB_win-win (7).jpg"
+    },
+    {
+      "position": [
+        6.5625,
+        12.8125
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (2).png"
+    },
+    {
+      "position": [
+        6.6875,
+        12.8125
+      ],
+      "link": "https://youtu.be/ymAL_WjC_2A\n",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (13).jpeg"
+    },
+    {
+      "position": [
+        6.8125,
+        12.8125
+      ],
+      "link": "https://youtu.be/xOAuF7x8CQE\n",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (19).jpeg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.8125
+      ],
+      "link": "https://youtu.be/XLROrql6Lx8\n",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (31).jpeg"
+    },
+    {
+      "position": [
+        6.0625,
+        12.9375
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DB_GuardPost (3).jpg"
+    },
+    {
+      "position": [
+        6.1875,
+        12.9375
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (24).jpeg"
+    },
+    {
+      "position": [
+        6.3125,
+        12.9375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (9).jpeg"
+    },
+    {
+      "position": [
+        6.4375,
+        12.9375
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.115,
+      "name": "DB_TENDERE-SHELTER (2).JPG"
+    },
+    {
+      "position": [
+        6.5625,
+        12.9375
+      ],
+      "link": "https://youtu.be/PQwgluifXUo\n",
+      "pscale": 0.115,
+      "name": "DCC_TeaHouse (15).jpeg"
+    },
+    {
+      "position": [
+        6.6875,
+        12.9375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DB_CloudFloor (18).jpeg"
+    },
+    {
+      "position": [
+        6.8125,
+        12.9375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DB_GuardPost (5).jpg"
+    },
+    {
+      "position": [
+        6.9375,
+        12.9375
+      ],
+      "link": "DB_BUILDING THE GUARD POST.pdf",
+      "pscale": 0.115,
+      "name": "DCC_darunsuksaSchool (3).png"
+    },
+    {
+      "position": [
+        7.25,
+        12.25
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (21).jpeg"
+    },
+    {
+      "position": [
+        7.75,
+        12.25
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (39).jpeg"
+    },
+    {
+      "position": [
+        7.25,
+        12.75
+      ],
+      "link": "https://youtu.be/YZjTkXFYtBA\n",
+      "pscale": 0.49,
+      "name": "DCC_Munlife (6).jpg"
+    },
+    {
+      "position": [
+        7.75,
+        12.75
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.49,
+      "name": "DCC_darunsuksaSchool (1).png"
+    },
+    {
+      "position": [
+        8.25,
+        12.25
+      ],
+      "link": "DCC_MongrelaProject.pdf",
+      "pscale": 0.49,
+      "name": "DB_GuardPost (9).jpg"
+    },
+    {
+      "position": [
+        8.75,
+        12.25
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (10).jpeg"
+    },
+    {
+      "position": [
+        8.25,
+        12.75
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (2).png"
+    },
+    {
+      "position": [
+        8.75,
+        12.75
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (3).png"
+    },
+    {
+      "position": [
+        5.25,
+        13.25
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_darunsuksaSchool (2)_c.jpg"
+    },
+    {
+      "position": [
+        5.75,
+        13.25
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (1).png"
+    },
+    {
+      "position": [
+        5.25,
+        13.75
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_Munlife (7).jpg"
+    },
+    {
+      "position": [
+        5.75,
+        13.75
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (4).png"
+    },
+    {
+      "position": [
+        7.25,
+        13.25
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (7).png"
+    },
+    {
+      "position": [
+        7.75,
+        13.25
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (8).png"
+    },
+    {
+      "position": [
+        7.25,
+        13.75
+      ],
+      "link": "https://youtu.be/ymAL_WjC_2A\n",
+      "pscale": 0.49,
+      "name": "DCC_darunsuksaSchool (3)_c.jpg"
+    },
+    {
+      "position": [
+        7.75,
+        13.75
+      ],
+      "link": "https://youtu.be/tMgUUioT0zQ\n",
+      "pscale": 0.49,
+      "name": "DCC_TeaHouse (9).png"
+    },
+    {
+      "position": [
+        8.5,
+        13.5
+      ],
+      "link": "Darunsuksa School Design Proposed.pdf",
+      "pscale": 1.0,
+      "name": "DCC_darunsuksaSchool (1)_c.jpg"
     }
   ]
 }
